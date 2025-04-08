@@ -50,6 +50,10 @@ This project fetches and analyzes real-time earthquake data using the **USGS Ear
 
 ---
 
+## 🗺️ Map[Uploading earthquakes_map.html…]()
+
+![Earthquake_on_map](https://github.com/user-attachments/assets/13d7e705-4573-4301-b854-2202a6f9435f)
+
 ## 🔧 How to Run
 
 1. Install dependencies:
